@@ -1,0 +1,34 @@
+_repo: In-the-Name-of-the-Bodleian-and-Other-Essays_12244
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Birrell, Augustine
+    birthdate: 1850
+    deathdate: 1933
+    gutenberg_agent_id: '2413'
+    url: http://www.gutenberg.org/2009/agents/2413
+    wikipedia: http://en.wikipedia.org/wiki/Augustine_Birrell
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bodleian Library'
+- !lcc 'PR'
+- !lcsh 'Books and reading -- Great Britain'
+- GITenberg
+tableOfContents: '''In the name of the Bodleian'' -- Bookworms -- Confirmed readers
+  -- First editions -- Gossip in a library -- Librarians at play -- Lawyers at play
+  -- The non-jurors -- Lord Chesterfield -- The Johnsonian legend -- Boswell as biographer
+  -- Old pleasure gardens -- Old booksellers -- A few words about copyright in books
+  -- Hannah More once more -- Arthur Young -- Thomas Paine -- Charles Bradlaugh --
+  Disraeli ex relatione Sir William Fraser -- A connoisseur -- Our great middle class
+  -- Tar and whitewash -- Itineraries -- Epitaphs -- ''Hansard'' -- Contempt of court
+  -- 5 Edward VII., chapter 12.'
+title: In the Name of the Bodleian, and Other Essays
+url: http://www.gutenberg.org/ebooks/12244
