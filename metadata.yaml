@@ -1,5 +1,8 @@
 _repo: In-the-Name-of-the-Bodleian-and-Other-Essays_12244
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Birrell, Augustine
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2413
     wikipedia: http://en.wikipedia.org/wiki/Augustine_Birrell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12244#In-the-Name-of-the-Bodleian-and-Other-Essays
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
